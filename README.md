@@ -1,6 +1,6 @@
 # UTS
 Here are some assignments and experiments during my undergraduate study.  
-Skills involved are: Python, Matlab, Tableau, Excel，tec.
+Skills involved are: Python, Matlab, Tableau, Excel, tec.
 
 2021S  Application of YOLO v2 Object Detection (HD & Group leader)  
 2022A  Analysis of US Open Championship from 1881-2021(HD)  
